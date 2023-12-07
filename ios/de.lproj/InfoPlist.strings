@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  kommMit
+
+  Created by User on 24.03.2022.
+  
+*/
+"NSLocationWhenInUseUsageDescription" = "Ihr Standort wird verwendet, um Ihre Position auf der Karte zu bestimmen und anzuzeigen, wie weit Objekte und Routen entfernt sind.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Ihr Standort wird verwendet, um Ihre Position auf der Karte zu bestimmen und anzuzeigen, wie weit Objekte und Routen entfernt sind.";
+"NSLocationAlwaysUsageDescription" = "Ihr Standort wird verwendet, um Ihre Position auf der Karte zu bestimmen und anzuzeigen, wie weit Objekte und Routen entfernt sind.";
