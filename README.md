@@ -1,32 +1,20 @@
 # Komm mit
+
 ## React Native App
-##
-##
+
 ## Installation
 
-Install the dependencies and devDependencies and run the app.
-
-```sh
-yarn install
+```bash
+$ yarn install
 ```
 
-## Run IOS
+## Running the app
 
-```sh
-yarn ios
-```
+```bash
 
-## Run Android
+# iOS
+$ yarn run ios
 
-add local.properties file in ./android folder and run command:
-```sh
-yarn android
-```
-
-## Hygen Commands
-
-```sh
-yarn g:screen
-yarn g:screen-component
-yarn g:component
+# Android
+$ yarn run android
 ```
